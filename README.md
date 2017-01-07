@@ -10,7 +10,7 @@ Capture webcam video to a file with timestamping and preview
 requires ffmpeg with freetype and mplayer
 
 	brew install ffmpeg --with-freetype
-	breq install mplayer
+	brew install mplayer
 
 
 ## python version 
